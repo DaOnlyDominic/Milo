@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+    <script>
+			var tan = function() {
+				confirm("You are about to go into TAN mode. Press OK to confirm.")
+			}
+    </script>
+</html>
